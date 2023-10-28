@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\Aron\source\repos\lab_algoritms\main.c(48,19): warning C4013: 'almostSortedInput' undefined; assuming extern returning int
+  lab_algoritms.vcxproj -> C:\Users\Aron\source\repos\lab_algoritms\x64\Debug\lab_algoritms.exe
